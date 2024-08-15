@@ -531,6 +531,14 @@ form button {
     color: #6b6b6b;
 }
 
+.content-position1 {
+    max-width: 1440px;
+}
+
+.content-position1 img {
+    max-width: 1345px;
+}
+
 
 /* .footer-media ul.active {
     width: 103px;
